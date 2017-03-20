@@ -130,22 +130,14 @@ PAGE: ABOUT
 ***************************/
 
 .profile-photo {
-  display: block;
-  max-width: 150px;
-  margin:0 auto 30px;
-  border-radius: 100%;
-}
-
-/* Code for firefox CSS issue below use if needed,adds clear:both*/
-/*
-.profile-photo {
   clear: both;
   display: block;
   max-width: 150px;
   margin: 0 auto 30px;
   border-radius: 100%;
 }
-*/
+
+
 
 
 
@@ -207,9 +199,9 @@ a {
 }
 
 /* nav links */
-nav, nav a:visited {
+/* nav, nav a:visited {
  background: #201D1D;
-}
+} */
 
 /* selected nav link */
 nav a.selected, a:hover {
