@@ -230,3 +230,7 @@ BLOG
   color: red;
   text-decoration: underline;
 }
+
+#topspace {
+  margin-top: -20px;
+}
