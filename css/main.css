@@ -52,7 +52,7 @@ h2 {
   margin: 5px 0 0;
   font-weight:normal;
   font-family: 'Cinzel', serif;
-}  
+}
 
 
 /****************************
@@ -180,6 +180,10 @@ PAGE: CONTACT
   background-image: url('../img/twitter.png')
 }
 
+.contact-info li.instagram a {
+  background-image: url('../img/insta.png')
+}
+
 /****************************
 COLORS
 ***************************/
@@ -199,7 +203,7 @@ header {
 /* logo text */
 h1,h2 {
   color: #201D1D;
-}  
+}
 
 /* links */
 a {
@@ -217,3 +221,20 @@ nav a.selected, a:hover {
 }
 
 
+/****************************
+BLOG
+***************************/
+.entergoogle {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#qoura1 {
+  text-decoration: underline;
+  color: red;
+}
+
+.resources {
+  color: red;
+  text-decoration: underline;
+}
