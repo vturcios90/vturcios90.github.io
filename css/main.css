@@ -234,3 +234,13 @@ BLOG
 #topspace {
   margin-top: -15px;
 }
+
+#work {
+  text-align: center;
+  font-size: 2em;
+}
+
+#work2 {
+  text-align: center;
+  font-size: 1.5em;
+}
